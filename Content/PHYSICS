@@ -1,0 +1,22 @@
+<html>
+<head><title><marquee direction="right"><font face="arial black" size="60" color="#FF0000">MORE ABOUT PHYSICS
+ BOOKS</font></marquee>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="w3.css">
+
+</title></head>
+<div class="w3-container w3-mobile w3-hover">
+  <A HREF="project.html" button class="w3-button w3-black W3-BAR w3-mobile">BACK TO HOME</button></A>
+    <A HREF="ABOUT US.html" button class="w3-button w3-black W3-BAR w3-mobile">ABOUT US</button></A>
+
+
+  </div>
+<body bgcolor="#00ffff">
+
+<a name ="html"><h2><font size="40">PHYSICS</font></H2>
+Physics is one of the oldest academic disciplines and, through its inclusion of astronomy, perhaps the oldest.
+Over the last two millennia, physics, chemistry, biology, and certain branches of mathematics were a part of natural philosophy, but during the scientific revolution in the 17th century, these natural sciences emerged as unique research endeavors in their own right. Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms studied by other sciences and suggest new avenues of research in academic disciplines such as mathematics and philosophy.
+<IMG SRC="physics.jpg"border="15"
+hspace="75" vspace="75">
+</body>
+</html>
